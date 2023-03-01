@@ -19,7 +19,7 @@ upload to your Github Repo
 For the deployment I've use IPFS - Interplanetary File System simply because its free to use
 Using a platfform call Fleek 
 
-### Fleet 
+### Fleek 
 has simple interface easy to use just need to sign up  to the service connect your Github account
 upload your project to Fleek and wait the process to finish
 
